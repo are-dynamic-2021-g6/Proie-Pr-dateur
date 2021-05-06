@@ -1,6 +1,6 @@
 ![Image](https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/16x9/yukon-lynx-lievre.jpg)
 
-# Dynamique Lynx-Lièvre
+# Modèle de Lotka-Volterra
 
 Pourquoi les proies ne disparaissent-elles pas?
 
